@@ -1,6 +1,4 @@
 # gen_ai_perceptions_developers
-R files and data associated with social media analysis of reddit data 
-
 
 
 IMPACT OF GENERATIVE AI ON DEVELOPERS USING A TOPIC MODELLING AND SENTIMENT ANALYSIS OF REDDIT DATA
