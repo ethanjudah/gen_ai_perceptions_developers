@@ -16,7 +16,7 @@ before <- as.POSIXct("2022-12-01", tz = "UTC")
 before == after
 
 repeat {
-
+# change subreddit in line 20 for for each subreddit
 command = paste("https://api.pullpush.io/reddit/search/comment/?q=copilot&sort=desc&size=100&before=",as.integer(before),sep ='')
 command = paste(command,'&after=',sep ='')
 command = paste(command,as.integer(after),sep ='')
